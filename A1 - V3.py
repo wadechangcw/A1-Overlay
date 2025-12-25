@@ -719,7 +719,7 @@ class App:
         )
 
         messagebox.showinfo("完成", "所有圖表已成功產生！")
-        self.status.config(text="🎉 圖表製作完成！")
+        self.status.config(text="🎉 圖表製作完成")
 
 # ============================================================
 # PART 6 - Main Entry Point
